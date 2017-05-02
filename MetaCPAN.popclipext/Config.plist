@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Actions</key>
+	<array>
+		<dict>
+			<key>Image File</key>
+			<string>metacpan.png</string>
+			<key>Regular Expression</key>
+			<string>(?s)^\s*[\w:]{1,200}\s*$</string>
+			<key>Title</key>
+			<string>MetaCPAN</string>
+			<key>URL</key>
+			<string>https://metacpan.org/search?q={popclip text}</string>
+		</dict>
+	</array>
+	<key>Apps</key>
+	<array>
+		<dict>
+			<key>Link</key>
+			<string>https://metacpan.org/</string>
+			<key>Name</key>
+			<string>MetaCPAN</string>
+		</dict>
+	</array>
+	<key>Extension Description</key>
+	<dict>
+		<key>en</key>
+		<string>Search the CPAN using MetaCPAN.</string>
+	</dict>
+	<key>Extension Identifier</key>
+	<string>au.com.garrison.popclip.extension.metacpan</string>
+	<key>Extension Name</key>
+	<string>MetaCPAN</string>
+	<key>Required Software Version</key>
+	<integer>693</integer>
+</dict>
+</plist>
