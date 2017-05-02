@@ -1,6 +1,6 @@
 # popclip-metacpan
 
-##PopClip extension to search metacpan.org for selected text in front window
+## PopClip extension to search metacpan.org for selected text in front window
 ![MetaCPAN PopClip extension in use](popclip-metacpan.png "MetaCPAN PopClip extension in use")
 
 Install this [PopClip](http://pilotmoon.com/popclip/) extension to use the selected text as the search string for [MetaCPAN](https://metacpan.org).
